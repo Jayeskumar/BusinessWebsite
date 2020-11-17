@@ -1,2 +1,2 @@
 # BusinessWebsite
-Single Page Business Website created using HTML and CSS
+<h2>single page business website created using HTML and CSS</h2>
